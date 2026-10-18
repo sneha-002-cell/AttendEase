@@ -1,0 +1,6 @@
+{
+  "name": "AttendEase",
+  "description": "Simple, Smart & Reliable Student Attendance Management System for schools and colleges.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
